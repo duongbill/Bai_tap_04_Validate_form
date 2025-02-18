@@ -57,18 +57,18 @@ const LoginScreen = () => {
 const styles = StyleSheet.create({
   safeArea: {
     flex: 1,
-    backgroundColor: "#fff",
+    backgroundColor: "#ffff",
   },
   container: {
     flex: 1,
     padding: 20,
-    justifyContent: "center",
-    backgroundColor: "#fff",
+    justifyContent: "left",
+    backgroundColor: "green",
   },
   title: {
     fontSize: 24,
     fontWeight: "bold",
-    textAlign: "center",
+    textAlign: "left",
     marginBottom: 20,
     color: "#333",
   },
